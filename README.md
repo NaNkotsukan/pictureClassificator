@@ -1,0 +1,2 @@
+# pictureClassificator
+画像がイラストか写真か判別するやつ
